@@ -19,7 +19,7 @@ if( typeof(SerialCall) == "undefined" ){
                 call_one(next);
             }
             ,function(context,next){
-                call_tow(next);
+                call_two(next);
             }
             ,function(context,next){
                 call_three();
